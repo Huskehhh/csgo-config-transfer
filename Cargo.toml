@@ -1,0 +1,9 @@
+[package]
+name = "config-switcher"
+version = "0.1.0"
+authors = ["Jordyn Newnham <jordyn@husk.pro>"]
+edition = "2018"
+
+[dependencies]
+dotenv = "0.15.0"
+fs_extra = "1.2.0"
