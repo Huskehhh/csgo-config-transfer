@@ -1,5 +1,5 @@
 [package]
-name = "config-switcher"
+name = "config-transfer"
 version = "0.1.0"
 authors = ["Jordyn Newnham <jordyn@husk.pro>"]
 edition = "2018"
